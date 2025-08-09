@@ -14,5 +14,14 @@
     "jarak": 1,
     "harga": 5000,
     "status": "assigned"
+  },
+  {
+    "id": 1754745897033,
+    "nama": "Gustii",
+    "tujuan": "Jalan kuy",
+    "jarak": 10,
+    "harga": 50000,
+    "status": "pending",
+    "createdAt": 1754745896427
   }
 ]
