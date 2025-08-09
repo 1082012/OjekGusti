@@ -21,7 +21,7 @@
     "tujuan": "Jalan kuy",
     "jarak": 10,
     "harga": 50000,
-    "status": "pending",
+    "status": "assigned",
     "createdAt": 1754745896427
   }
 ]
