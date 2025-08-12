@@ -23,5 +23,19 @@
     "harga": 50000,
     "status": "assigned",
     "createdAt": 1754745896427
+  },
+  {
+    "id": 1754974278269,
+    "nama": "Gusti",
+    "penerima": "Gust",
+    "hp": "Ri",
+    "tujuan": "Gatau",
+    "maps": "maps",
+    "jarak": 10,
+    "berat": 1,
+    "harga": 52000,
+    "catatan": "Gatau",
+    "status": "pending",
+    "createdAt": 1754974277855
   }
 ]
