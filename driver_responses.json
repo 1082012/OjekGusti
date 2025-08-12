@@ -8,13 +8,6 @@
     "targetTime": 1754745956003
   },
   {
-    "id": 1754744512425,
-    "nama": "Pp",
-    "status": "Ditolak",
-    "driver": "P",
-    "waktu_mulai": 1754745909717
-  },
-  {
     "id": 1754745897033,
     "nama": "Gustii",
     "status": "Diterima",
@@ -22,5 +15,12 @@
     "estimasi": "10 menit",
     "targetTime": 1754746518069,
     "waktu_mulai": 1754745918069
+  },
+  {
+    "id": 1754744512425,
+    "nama": "Pp",
+    "status": "Ditolak",
+    "driver": "Gg",
+    "waktu_mulai": 1754974293263
   }
 ]
