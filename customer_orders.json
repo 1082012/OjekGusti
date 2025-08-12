@@ -35,7 +35,7 @@
     "berat": 1,
     "harga": 52000,
     "catatan": "Gatau",
-    "status": "pending",
+    "status": "assigned",
     "createdAt": 1754974277855
   }
 ]
